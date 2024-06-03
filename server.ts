@@ -12,7 +12,7 @@
 
 import app from './Server/Config/app.js';
 import debugLib from 'debug';
-const debug = debugLib('assignment 1:server');
+const debug = debugLib('assignment1:server');
 import http from 'http';
 import { HttpError } from 'http-errors';
 import { AddressInfo } from 'net';

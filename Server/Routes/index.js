@@ -10,4 +10,3 @@ router.get('/', function (req, res, next) {
     (0, movie_1.DisplayMovieList)(req, res, next);
 });
 exports.default = router;
-//# sourceMappingURL=index.js.map
