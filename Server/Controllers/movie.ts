@@ -1,3 +1,13 @@
+/**
+ * movie.ts
+ * Handles requests related to Movies
+ * Student Name: Priyanka Saxena
+ * StudentID: 200583643
+ * Date: 02-06-2024
+ */
+
+
+
 import { Request, Response, NextFunction } from 'express';
 import Movie from '../Models/movie';
 

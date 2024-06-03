@@ -1,8 +1,10 @@
-/**
- * File: index.ts
+
+ /**
+ * index.ts
+ * Defines routes for Movies
  * Student Name: Priyanka Saxena
  * StudentID: 200583643
- * Date: 1996-02-24
+ * Date: 02-06-2024
  */
 
 

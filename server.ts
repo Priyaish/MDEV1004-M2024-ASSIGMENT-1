@@ -1,4 +1,10 @@
-#!/usr/bin/env node
+/**
+ * server.ts
+ * Connects to MongoDB using Mongoose
+ * Student Name: Priyanka Saxena
+ * StudentID: 200583643
+ * Date: 02-06-2024
+ */
 
 /**
  * Module dependencies.
@@ -6,7 +12,7 @@
 
 import app from './Server/Config/app.js';
 import debugLib from 'debug';
-const debug = debugLib('ice3:server');
+const debug = debugLib('assignment 1:server');
 import http from 'http';
 import { HttpError } from 'http-errors';
 import { AddressInfo } from 'net';

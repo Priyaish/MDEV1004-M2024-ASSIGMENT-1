@@ -1,3 +1,12 @@
+/**
+ * app.ts
+ * Sets up the Express application
+ * Student Name: Priyanka Saxena
+ * StudentID: 200583643
+ * Date: 02-06-2024
+ */
+
+
 import createError, { HttpError } from 'http-errors';
 import express, { Request, Response, NextFunction } from 'express';
 import path from 'path';

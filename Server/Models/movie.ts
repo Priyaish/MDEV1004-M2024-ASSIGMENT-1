@@ -1,3 +1,11 @@
+/**
+ * movie.ts
+ * Defines the Movie Schema and Model
+ * Student Name: Priyanka Saxena
+ * StudentID: 200583643
+ * Date: 02-06-2024
+ */
+
 import { Schema, model, Document } from 'mongoose';
 
 // Define the IMovie interface
